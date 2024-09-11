@@ -3,6 +3,13 @@ Mi primer repo
 
 ## subtitulo
 ~~~python
+class GitHub:
+  '''
+  Mi primera clase
+  '''
+  def __init__(self):
+    print("Pronto veremos esto a detalle")
+
 def funcion():
   print("Hola Mundo)
 ~~~
