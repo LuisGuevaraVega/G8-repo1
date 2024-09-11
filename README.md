@@ -2,32 +2,32 @@
 Mi primer repo
 
 ## subtitulo
-python
+~~~python
 def funcion():
   print("Hola Mundo)
-
+~~~
 ### sub sub titulo
 
 * a
 * b
 * c
 
----r
+~~~r
 
 x= 4
 y = 4
 
 print(paste("x + y = ",x+y)
 
----
+~~~
 
 #### termianndo
 
----cpp
+~~~cpp
 #include<iostream>
 #include<string>
 
 int main(){
 // iniciando
 }
-
+~~~
